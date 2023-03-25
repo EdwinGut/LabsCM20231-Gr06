@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">LabsCM20231-Gr06</string>
+    <string name="campoNombre"></string>
+    <string name="campoApellido"></string>
+    <string name="textoGenero">Sexo</string>
+    <string name="campoFemenino">Femenino</string>
+    <string name="campoMasculino">Masculino</string>
+    <string name="etDate"></string>
+    <string name="textoFechaNacimiento">Fecha de nacimiento</string>
+    <string name="textoEnviado">Texto enviado: </string>
+    <string name="tituloInfoContacto">Informacion de contacto</string>
+    <string name="campoTelefono"></string>
+    <string name="campoCorreo"></string>
+    <string name="campoDireccion"></string>
+    <string name="campoPais"></string>
+    <string name="botonPasarPantalla2">Siguente</string>
+    <string name="botonPasarPantalla3">Siguente</string>
+    <string name="botonPasaratras1">Atras</string>
 </resources>
